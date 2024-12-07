@@ -24,7 +24,9 @@ The [LaTeX Business Cards](https://github.com/Paschalis/latex-business-cards) pr
 
 <div align="center">
 
-[![LaTeX Business Cards](https://img.shields.io/badge/LaTeX--Business--Cards-Explore%20Templates!-orange?style=for-the-badge&logo=latex)](https://github.com/Paschalis/latex-business-cards) 
-[![Stars](https://img.shields.io/github/stars/Paschalis/latex-business-cards?label=🌟%20Stars&style=for-the-badge&color=yellow)](https://github.com/Paschalis/latex-business-cards/stargazers) [![Forks](https://img.shields.io/github/forks/Paschalis/latex-business-cards?label=🍴%20Forks&style=for-the-badge&color=blue)](https://github.com/Paschalis/latex-business-cards/network/members) [![Activity](https://img.shields.io/github/last-commit/Paschalis/latex-business-cards?label=⏳%20Last%20Update&style=for-the-badge&color=green)](https://github.com/Paschalis/latex-business-cards/commits/main)
+[![LaTeX Business Cards](https://img.shields.io/badge/LaTeX--Business--Cards-Explore%20Templates!-orange?style=for-the-badge&logo=latex)](https://github.com/Paschalis/latex-business-cards)  
+[![Stars](https://img.shields.io/github/stars/Paschalis/latex-business-cards?label=🌟%20Stars&style=for-the-badge&color=yellow)](https://github.com/Paschalis/latex-business-cards/stargazers)
+[![Forks](https://img.shields.io/github/forks/Paschalis/latex-business-cards?label=🍴%20Forks&style=for-the-badge&color=blue)](https://github.com/Paschalis/latex-business-cards/network/members)
+[![Activity](https://img.shields.io/github/last-commit/Paschalis/latex-business-cards?label=⏳%20Last%20Update&style=for-the-badge&color=green)](https://github.com/Paschalis/latex-business-cards/commits/main)
 
 </div>
