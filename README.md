@@ -1,6 +1,8 @@
 
 # RFID-AttendTrack
 
+![Under Construction](https://img.shields.io/badge/status-under%20construction-orange)
+
 An attendance management system that automates employee attendance tracking using RFID technology. It supports multiple implementations, offering flexibility in integration with different technologies. The system enables syncing data from RFID devices, viewing attendance history, and exporting reports.
 
 ---
@@ -30,3 +32,17 @@ The [LaTeX Business Cards](https://github.com/Paschalis/latex-business-cards) pr
 [![Activity](https://img.shields.io/github/last-commit/Paschalis/latex-business-cards?label=⏳%20Last%20Update&style=for-the-badge&color=green)](https://github.com/Paschalis/latex-business-cards/commits/main)
 
 </div>
+
+---
+
+## Contributing
+
+Your contributions and suggestions are crucial for the improvement of this project!  Feel free to submit pull requests or open issues if you encounter any problems.
+
+## License
+
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Thank you for visiting RFID-AttendTrack!**
