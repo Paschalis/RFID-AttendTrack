@@ -3,6 +3,10 @@
 
 ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange)
 
+<p align="center">
+  <img src="Images/preview.png" alt="preview">
+</p>
+
 An attendance management system that automates employee attendance tracking using RFID technology. It supports multiple implementations, offering flexibility in integration with different technologies. The system enables syncing data from RFID devices, viewing attendance history, and exporting reports.
 
 ---
